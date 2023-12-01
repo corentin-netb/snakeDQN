@@ -1,0 +1,7 @@
+
+Backend QtAgg is interactive backend. Turning interactive mode on.
+Traceback (most recent call last):
+  File "C:\Users\coren\Desktop\SnakeAI\snake_ai_dual.py", line 293, in <module>
+    game.run_game()
+  File "C:\Users\coren\Desktop\SnakeAI\snake_ai_dual.py", line 227, in run_game
+    self.clock.tick(10)

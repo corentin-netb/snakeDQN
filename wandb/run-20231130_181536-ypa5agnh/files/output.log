@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "C:\Users\coren\Desktop\SnakeAI\snake_ai_dual.py", line 276, in <module>
+    game.run_game()
+  File "C:\Users\coren\Desktop\SnakeAI\snake_ai_dual.py", line 222, in run_game
+    self.clock.tick(10)
+KeyboardInterrupt
